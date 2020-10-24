@@ -40,15 +40,15 @@ Hope you got my message.....Good Luck!!
 #### p13.py = Reverse a given number and return true if it is same as original number.
 
 #### p14.py = Print the pattern     * * * *
-####                                * * *
-####                                * *
-####                                *
+                                    * * *
+                                    * *
+                                    *
 
 #### p15.py = Print the pattern     5 4 3 2 1
-####                                4 3 2 1
-####                                3 2 1
-####                                2 1
-####                                1
+                                    4 3 2 1
+                                    3 2 1
+                                    2 1
+                                    1
 
 #### p16.py = Display -10 to -1 using for loop.
 
@@ -70,7 +70,7 @@ Hope you got my message.....Good Luck!!
 
 #### p25.py = Write a function calculation() which accepts 2 variables and calculates their sum and difference in a singlr return call.
 
-#### p26.py = Create a function showEmployee() which accepts employees' name and salary and displays both and if salray is missing in function call then it should display it as ####9000.
+#### p26.py = Create a function showEmployee() which accepts employees' name and salary and displays both and if salray is missing in function call then it should display it as 9000.
 
 #### p27.py = Write a function func1() which accepts a variable length of arguments and print all argument values.
 

@@ -39,12 +39,14 @@ Hope you got my message.....Good Luck!!
 
 #### p13.py = Reverse a given number and return true if it is same as original number.
 
-#### p14.py = Print the pattern     * * * *
+#### p14.py = Print the pattern    
+                                    * * * *
                                     * * *
                                     * *
                                     *
 
-#### p15.py = Print the pattern     5 4 3 2 1
+#### p15.py = Print the pattern    
+                                    5 4 3 2 1
                                     4 3 2 1
                                     3 2 1
                                     2 1

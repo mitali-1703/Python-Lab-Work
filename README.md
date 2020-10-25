@@ -9,7 +9,7 @@ Hope you got my message.....Good Luck!!
 # List of Python Programs
 
 ## Basic programs based on Operators and Expressions
-#
+
 #### p1.py = WAP to enter a number and display its hex and octal equivalent and its square root.
 #
 #### p2.py = Read and print values of variables of different data types.
@@ -31,7 +31,7 @@ Hope you got my message.....Good Luck!!
 #### p10.py = WAP to calculate average of two numbers and print their deviation.
 #
 
-## Programs based on List, Tuple, Dictionary nad Functions
+## Programs based on List, Tuple, Dictionary and Functions
 
 #### p11.py = Given two integer numbers,return their product. If product > 1000, return their sum.
 #
